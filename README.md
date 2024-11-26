@@ -89,7 +89,7 @@
 4. Configuration
    ```
    echo "TERMUX = true
-   SESSION_ID = izumi~NJrnzJyS
+   SESSION_ID = 1MCP-YVQM
    PREFIX = .
    READ_MSG = false
    ALWAYS_ONLINE = false
